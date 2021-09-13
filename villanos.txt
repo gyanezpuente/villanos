@@ -6,3 +6,6 @@ Joker
 Spectra
 doctor No
 Doctor Maligno
+
+//añadido por el tio2
+Lex Luthor
